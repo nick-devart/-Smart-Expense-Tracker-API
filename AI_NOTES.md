@@ -2,7 +2,7 @@
 
 ## Which parts were AI-generated vs. written by me
 
-This project was built with significant AI assistance (Kiro / Claude). Here's the breakdown:
+This project was built with significant AI assistance .Here's the breakdown:
 
 AI-generated:
 - Initial project scaffold and file structure
